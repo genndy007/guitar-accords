@@ -19,12 +19,14 @@ apostol PEREBOR: T 3 2 1 2 3
                 
 ddt metel: T 3 1 ↓↑ with Em C G D \\chorus ↓↓ Щ ↓↑             
 moi assnie dni:          
-   - Kuplet: 2- Am Dm E Am Am Dm G C Am Dm E Am F Dm E Am                  
+   - Kuplet: 2- Am Dm E Am| Am Dm G C| Am Dm E Am| F Dm E Am                  
    - Chorus: Dm E Am F Dm E Am | repeat 2 times            
 
 kukla kolduna:
    - kuplet: 2- Em G Am H7
    - chorus: Em Em Am H7
 
-federiko fellini:      
-2- Am F G Em F Dm E E
+federiko fellini: 2- Am F G Em F Dm E E
+prignu so skali:         
+     - kuplet: 2- Am Am Dm7 Em| Am Am Dm7 Em| C Dm F Em| C Dm E          
+     - chorus: Am G Dm7 E7| Am G Dm7 E7| C C Em Em| Dm7 E7 Am
