@@ -25,3 +25,6 @@ moi assnie dni:
 kukla kolduna:
    - kuplet: 2- Em G Am H7
    - chorus: Em Em Am H7
+
+federiko fellini:      
+2- Am F G Em F Dm E E
