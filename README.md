@@ -30,3 +30,6 @@ federiko fellini: 2- Am F G Em F Dm E E
 prignu so skali:               
      - kuplet: 2- Am Am Dm7 Em| Am Am Dm7 Em| C Dm F Em| C Dm E          
      - chorus: Am G Dm7 E7| Am G Dm7 E7| C C Em Em| Dm7 E7 Am
+     
+     
+Бой восьмерка: ↓.↓.↑↑↓↓↑↓↑
