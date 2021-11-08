@@ -32,4 +32,6 @@ prignu so skali:
      - chorus: Am G Dm7 E7| Am G Dm7 E7| C C Em Em| Dm7 E7 Am
      
      
-Бой восьмерка: ↓.↓.↑↑↓↓↑↓↑
+Бой восьмерка: ↓.↓.↑↑↓↓↑↓↑          
+            
+zakroi za mnoi dver: 2- Am G Em F \\chorus Am G Em7 F 
