@@ -33,5 +33,19 @@ prignu so skali:
      
      
 Бой восьмерка: ↓.↓.↑↑↓↓↑↓↑          
+вахтерам: Am G Dm E   восьмерка          
+люби меня люби: Em G D C   vosmerka               
+dym sigaret s mentolom       
+       
+kish lesnik: 1- Am Am F G \\chorus 2- Am F Dm G              
             
-zakroi za mnoi dver: 2- Am G Em F \\chorus Am G Em7 F 
+zakroi za mnoi dver: 2- Am G Em F \\chorus Am G Em7 F            
+
+Chto eshe mogu sigrat:
+- aprel coi
+- vosmiklassnica
+- spokoinaya noch
+- ekonom variant
+- ddt chto takoe osen
+- ddt poslednyaya osen
+-  8 kolir  (chorus ↓ ↓↑↓)
