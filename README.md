@@ -3,6 +3,8 @@
 - pachka: 1- Em Am C D            
 - nam s toboi: 1- Em D Em D | C D Em D | Em D Em D | 2- H7 C \\chorus Em Em Am D  
 - aprel
+- leto
+- pesnya bez slov
 - cockushka
 - vosmiklassnica
 - spokoinaya noch   
