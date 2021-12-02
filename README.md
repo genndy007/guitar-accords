@@ -12,6 +12,20 @@
 - zakroi za mnoi dver: 2- Am G Em F \\chorus Am G Em7 F  
 - stuk!
 
+## Aria
+- shtil
+- besnechnyi angel
+
+## Sektor Gaza
+- demobilizatsiya
+- pora domoi
+- tuman [link](https://www.youtube.com/watch?v=pX-3VT1FLz0)
+- bomzh
+- 30 let
+- svidanie
+- vozle doma tvoego 1-
+- lirika
+
 ### DDT             
 - prosvistela: 2- Em C G H7  
 - metel: T 3 1 ↓↑ with Em C G D \\chorus ↓↓ Щ ↓↑ 
@@ -19,6 +33,7 @@
 - poslednyaya osen
 
 ### KiSH
+- eli myaso muzhiki
 - lesnik: 1- Am Am F G \\chorus 2- Am F Dm G 
 - kukla kolduna:
    - kuplet: 2- Em G Am H7
@@ -44,7 +59,9 @@
 - dym sigaret s mentolom   
 - ekonom variant
         
-### Misc       
+### Misc    
+- voiny sveta
+- milaya moya
 -  8 kolir  (chorus ↓ ↓↑↓)
 -  vo franzuskoi storone
 -  vashe blagorodie
