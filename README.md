@@ -1,4 +1,18 @@
-### Kino
+## Navigation
+[KINO](#kino) |
+[ARIA](#aria) |
+[ZVERI](#zveri) |
+[SPLEAN](#splean) |
+[SEKTOR GAZA](#sektor-gaza) |
+[DDT](#ddt) |
+[KISH](#kish) |
+[NAU](#nau) |
+[LETOV](#letov) |
+[VOSMERKA](#vosmerka) |
+[MISC](#misc) |
+
+
+### <a name="kino"> Kino</a>
 - mesto dlya shaga vpered
 - zvezda solnce: 1- Am C Dm G               
 - pachka: 1- Em Am C D            
@@ -13,20 +27,20 @@
 - zakroi za mnoi dver: 2- Am G Em F \\chorus Am G Em7 F  
 - stuk!
 
-### Aria
+### <a name="aria"> Aria</a>
 - shtil
 - besnechnyi angel
 
-### Zveri
+### <a name="zveri"> Zveri</a>
 - do skoroi vstrechi
 - rayony kvartaly
 
-### Splean
+### <a name="splean"> Splean </a>
 - moe serdce
 - tancui!  (↓↑↓ * ↓↑)
 - vixoda net
 
-### Sektor Gaza
+### <a name="sektor-gaza"> Sektor Gaza</a>
 - demobilizatsiya
 - pora domoi
 - tuman [link](https://www.youtube.com/watch?v=pX-3VT1FLz0)
@@ -36,13 +50,13 @@
 - vozle doma tvoego 1-
 - lirika
 
-### DDT             
+### <a name="ddt"> DDT</a>             
 - prosvistela: 2- Em C G H7  
 - metel: T 3 1 ↓↑ with Em C G D \\chorus ↓↓ Щ ↓↑ 
 - chto takoe osen
 - poslednyaya osen
 
-### KiSH
+### <a name="kish"> KiSH</a>
 - eli myaso muzhiki
 - lesnik: 1- Am Am F G \\chorus 2- Am F Dm G 
 - kukla kolduna:
@@ -52,11 +66,11 @@
      - kuplet: 2- Am Am Dm7 Em| Am Am Dm7 Em| C Dm F Em| C Dm E          
      - chorus: Am G Dm7 E7| Am G Dm7 E7| C C Em Em| Dm7 E7 Am
 
-### Nau
+### <a name="nau"> Nau</a>
 - apostol: Em Em H7 H7 Am Am Em Em \\chorus 3- G D Am Em G D Am H7         
 - apostol PEREBOR: T 3 2 1 2 3      
 
-### Letov:   
+### <a name="letov"> Letov </a>      
 - i vnov prodolzhaetsa boy
 - vse idet po planu
 - moya oborona
@@ -64,14 +78,14 @@
 - reanimaciya
 - otryad ne zametil poteri boyca
 
-### Бой восьмерка: ↓.↓.↑↑↓↓↑↓↑  
+### <a name="vosmerka"> Бой восьмерка: ↓.↓.↑↑↓↓↑↓↑</a>  
 - sansara
 - vaxteram: Am G Dm E             
 - lube menya lube: Em G D C                 
 - dym sigaret s mentolom   
 - ekonom variant
         
-### Misc    
+### <a name="misc"> Misc</a>    
 - bi2 varvara Am F Dm G  (↓↑ ↑↓↑)
 - voiny sveta
 - milaya moya
