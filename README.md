@@ -17,6 +17,15 @@
 - shtil
 - besnechnyi angel
 
+### Zveri
+- do skoroi vstrechi
+- rayony kvartaly
+
+### Splean
+- moe serdce
+- tancui!  (↓↑↓ * ↓↑)
+- vixoda net
+
 ### Sektor Gaza
 - demobilizatsiya
 - pora domoi
@@ -47,22 +56,26 @@
 - apostol: Em Em H7 H7 Am Am Em Em \\chorus 3- G D Am Em G D Am H7         
 - apostol PEREBOR: T 3 2 1 2 3      
 
-### Letov:     
+### Letov:   
+- i vnov prodolzhaetsa boy
 - vse idet po planu
 - moya oborona
 - pro durachka
 - reanimaciya
 - otryad ne zametil poteri boyca
 
-### Бой восьмерка: ↓.↓.↑↑↓↓↑↓↑          
+### Бой восьмерка: ↓.↓.↑↑↓↓↑↓↑  
+- sansara
 - vaxteram: Am G Dm E             
 - lube menya lube: Em G D C                 
 - dym sigaret s mentolom   
 - ekonom variant
         
 ### Misc    
+- bi2 varvara Am F Dm G  (↓↑ ↑↓↑)
 - voiny sveta
 - milaya moya
+- radioactive
 -  8 kolir  (chorus ↓ ↓↑↓)
 -  vo franzuskoi storone
 -  vashe blagorodie
@@ -76,7 +89,7 @@
 ### Boi:     
 1 - четверка с приглушкой      
 2 - шестерка с приглушкой   
-3 - на 3/4 внииииз вверхвниз щелк внизвверхвнизвверх
+3 - на 3/4 внииииз вверхвниз щелк внизвверхвнизвверх OR вниз внизвверхвниз (вальсовый)
 ### Perebor:
 ```
 -------------------
