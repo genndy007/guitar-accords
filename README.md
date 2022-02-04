@@ -12,6 +12,14 @@
 [VOSMERKA](#vosmerka) |
 [MISC](#misc) |
 
+
+### PEREBOR
+- ddt metel T 4 3 1 ↓↑ | Em C G D
+- moe serdce T 3 ↓↑ | G G C G C G D Em \\chorus 1- G G C G G G D Em
+- lirika T 3 2 3 1 3 2 3 | Am G Dm Am \\chorus 6- C G Dm Am C G Am Am
+- batareika T 3 1 ↓↑ | Am G F E
+
+
 ### <a name="kino"> Kino</a>
 
 - mesto dlya shaga vpered
